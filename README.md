@@ -24,7 +24,7 @@
         - [x] Shell
         - [x] ScreenShot
         - [x] Copy All Camera Photo
-        - [x] Copy All WhatsApp Folder
+        - [x] Copy All WhatsApp Folder 
         - [x] Copy All Data Storage
         - [x] Manual Copy {Costum}
         - [x] Backup Data
